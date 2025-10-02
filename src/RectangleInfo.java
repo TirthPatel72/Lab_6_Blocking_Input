@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public class RectangleInfo
+{
+    public static void main(String[] args)
+    {
 
-public class RectangleInfo {
+
+    }
 }
